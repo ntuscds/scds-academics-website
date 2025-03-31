@@ -1,35 +1,43 @@
 ---
 sidebar_position: 1
+title: About Module Reviews
+description: Student-written reviews of NTU computing modules
+keywords: [module reviews, course reviews, ntu, computing, scds]
 ---
 
-# Module Reviews
+# About Module Reviews
 
-Welcome to the SCDS Module Reviews section. Here, you'll find a collection of honest, student-written reviews of CCDS program modules.
+Welcome to our comprehensive collection of student-authored module reviews for NTU's computing programs. These candid assessments provide valuable insights into the academic experience at SCSE.
 
-## About This Section
+## What You'll Find Here
 
-These reviews are contributed by students who have completed the modules and want to share their experiences, insights, and tips for success. Each review covers:
+Each review is written by students who have completed the modules and offers an authentic perspective on:
 
-- Module difficulty
-- Workload assessment
-- Teaching quality
-- Practical relevance
-- Helpful resources
-- Tips for doing well
+- **Detailed Ratings**
+  - Lecture Quality & Clarity
+  - Practical Relevance of Content
+  - Difficulty Level
+  - Workload Management
+  - Collaboration Requirements
 
-## Featured Module Reviews
+- **In-Depth Analysis**
+  - Module Overview & Learning Objectives
+  - Time Commitment & Workload Distribution
+  - Assessment Structure & Project Requirements
+  - Strategic Advice for Success
 
-Below is a list of module reviews. Click on a module to read detailed reviews:
+## Browse Reviews
 
-- [CS1010 Programming Methodology](#)
-- [CS2030 Programming Methodology II](#)
-- [CS2040 Data Structures and Algorithms](#)
-- [CS2100 Computer Organisation](#)
-- [CS2103T Software Engineering](#)
-- [CS3230 Design and Analysis of Algorithms](#)
+Use the sidebar navigation to explore reviews by category:
+- Core Modules
+- Major Prescribed Electives (MPEs)
+- Broadening & Deepening Electives (BDEs)
+- Year/Semester-specific Modules
 
-## Contributing a Review
+## Share Your Experience
 
-Have you completed a module and want to share your experience? We welcome contributions from all computing students! 
+Have you recently completed a module? Your insights can help fellow students make informed decisions about their academic journey.
 
-[Guide on how to submit your module review](#) 
+The SCDS Academics Committee reviews all submissions to ensure quality and relevance before publication.
+
+[**Submit Your Module Review**](https://forms.office.com/r/KbfKg1TzgK) 

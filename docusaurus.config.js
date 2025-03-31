@@ -101,7 +101,7 @@ const config = {
             label: 'SCDS Sub-clubs',
           },
           {
-            href: 'https://github.com/scds',
+            href: 'https://github.com/ntuscds',
             label: 'GitHub',
             position: 'right',
           },

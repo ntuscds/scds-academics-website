@@ -4,40 +4,33 @@ sidebar_position: 1
 
 # Past Year Paper Solutions
 
-Welcome to the SCDS Past Year Paper (PYP) Solutions resource hub. This section provides access to student-created solutions for past exam papers.
+## About PYP Repository
 
-## About PYP Repository (scds.cc/PastYearPapers)
+We have migrated from the previous PYP Repository (SCSE Past Year Papers) to a new link: 
 
-The SCDS PYP Repository has been a long-standing resource for computing students, containing a collection of past year examination papers for various computing modules. This repository has helped countless students prepare for their examinations by allowing them to:
+:::info[PYP Repository]
+### [**scds.cc/PastYearPapers**](https://scds.cc/PastYearPapers)
+This collection of student-generated solutions is maintained by the Academics Committee of the SCDS Club.
+:::
 
-- Understand the exam format and question styles
-- Practice with real exam questions
-- Gauge the difficulty level of different modules
-- Identify important concepts frequently tested
+This resource has been invaluable for computing students, helping them to:
+
+- **Understand** the exam format and question styles
+- **Practice** with real exam questions
+- **Gauge** the difficulty level of different modules
+- **Identify** important concepts frequently tested
+
+:::note
+We will be temporarily using this onedrive folder until PYPHub is deployed.
+:::
 
 ## Introducing PYPHub
 
-We're excited to announce PYPHub, our improved platform for accessing and contributing to past year paper solutions. PYPHub enhances the PYP experience by:
+We're excited to introduce **PYPHub**, our upcoming forum dedicated to past year paper solutions. 
 
-- Providing a more structured and searchable interface
-- Including annotated solutions with explanations
-- Allowing peer reviews and discussions on solutions
-- Enabling collaborative improvement of solutions
-- Tracking the most recent exam formats and question styles
+- Allowing students to discuss PYP questions and vote on the best answers
+- Making solutions more reliable through community validation
+- Incorporating an AI feature to generate initial solutions, which students can then discuss and improve upon
+- Ensuring the most recent exam formats and question styles are tracked and updated
 
-## Available Solutions
-
-Below are some of the modules for which we have PYP solutions:
-
-- [CS1010 Programming Methodology](#)
-- [CS2030 Programming Methodology II](#)
-- [CS2040 Data Structures and Algorithms](#)
-- [CS2100 Computer Organisation](#)
-- [CS3230 Design and Analysis of Algorithms](#)
-- [CS4234 Optimisation Algorithms](#)
-
-## Contributing
-
-We welcome contributions from students who have created solutions for past year papers. Your contributions help build a valuable resource for your peers and juniors.
-
-[Learn how to contribute to PYPHub](#) 
+Stay tuned for the launch of PYPHub and get ready to experience a new way of preparing for your exams!
