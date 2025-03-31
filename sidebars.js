@@ -19,6 +19,15 @@ const sidebars = {
   academicsSidebar: [
     {
       type: 'category',
+      label: 'PYP Solutions',
+      link: {
+        type: 'doc',
+        id: 'academics/pyp-solutions/index',
+      },
+      items: [],
+    },
+    {
+      type: 'category',
       label: 'Module Reviews',
       link: {
         type: 'doc',
@@ -77,18 +86,12 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'PYP Solutions',
+      label: 'Resources',
       link: {
         type: 'doc',
-        id: 'academics/pyp-solutions/index',
+        id: 'academics/resources/index',
       },
-      items: [],
-    },
-    {
-      type: 'category',
-      label: 'Resources',
       items: [
-        'academics/resources/index',
         'academics/resources/course-guide',
         'academics/resources/stars-guide',
         'academics/resources/school-life',

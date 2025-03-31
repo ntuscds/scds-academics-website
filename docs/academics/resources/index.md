@@ -13,8 +13,6 @@ We've compiled a collection of comprehensive guides and resources to support you
 ### [Course Guide](./course-guide)
 - Information about assessments and grading
 - Tips for lectures and tutorials
-- Guide to scheduling your courses effectively
-- Recommendations for electives and specializations
 
 ### [STARS Guide](./stars-guide)
 - How to navigate the course registration system

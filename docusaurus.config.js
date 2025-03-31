@@ -80,6 +80,7 @@ const config = {
         logo: {
           alt: 'SCDS Logo',
           src: 'img/scds-club-logo.png',
+          srcDark: 'img/scds-club-darkmode-logo.png',
         },
         items: [
           {
@@ -99,11 +100,6 @@ const config = {
             sidebarId: 'clubsSidebar',
             position: 'left',
             label: 'SCDS Sub-clubs',
-          },
-          {
-            href: 'https://github.com/ntuscds',
-            label: 'GitHub',
-            position: 'right',
           },
         ],
       },
@@ -166,7 +162,6 @@ const config = {
       },
       prism: {
         theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
       },
     }),
 };
