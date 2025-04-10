@@ -10,7 +10,7 @@ Quantitative Finance combines financial theory, mathematics, and computer scienc
 
 Quantitative researchers/strategists/analysts use or develop mathematical/statistical models/algorithms to analyze data and derive insights about the financial markets, which in turn can help drive trading or investment decisions.
 
-## What kinds of companies or industries need quants?
+## What kinds of industries need quants?
 
 These types of quants are often found in hedge funds, proprietary trading shops, banks or even in advanced academia. They can be working with any major asset class – from equities (stocks), commodities, currencies, fixed income, cryptocurrencies to futures, options and other exotic financial derivatives.
 
@@ -41,7 +41,7 @@ At the end of my first year, I noticed a job posting by a quant hedge fund hirin
 
 ### How did your internships/research experiences shape your understanding?
 
-Through my various quant and data science internships at hedge funds, prop firms and banks, I got to understand how different quant roles function and how even the same type of role could have varying responsibilities in different types of firm. Several SPMS modules I undertook at NTU and my exchange at NUS also allowed me to further reinforce my technical knowledge for quant. I even conducted and published my research under an SPMS prof who specialized in computational finance and ML, which allowed me to apply my knowledge to the most recent cutting-edge research areas within quant finance. On the side, I also connected with very helpful peers and seniors from my major and beyond who have landed amazing quant finance roles. Through them, I have learnt so much about possible quant career options and each firm's specific practices/interview styles.
+Through my various quant and data science internships at hedge funds, prop firms and banks, I got to understand how different quant roles function and how even the same type of role could have varying responsibilities in different types of firm. Several SPMS modules I undertook at NTU and my exchange at NUS also allowed me to further reinforce my technical knowledge for quant. I even conducted and [published my research](https://link.springer.com/chapter/10.1007/978-981-96-3811-6_17) under an SPMS prof who specialized in computational finance and ML, which allowed me to apply my knowledge to the most recent cutting-edge research areas within quant finance. On the side, I also connected with very helpful peers and seniors from my major and beyond who have landed amazing quant finance roles. Through them, I have learnt so much about possible quant career options and each firm's specific practices/interview styles.
 
 ### What are the key lessons you learned along the way?
 
