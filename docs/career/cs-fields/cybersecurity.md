@@ -2,7 +2,13 @@
 sidebar_position: 6
 ---
 
-# What is Cybersecurity?
+# A Guide to Cybersecurity
+
+## About the Writer
+
+xxx
+
+## What is Cybersecurity?
 
 Essentially, cybersecurity is just the practice of keeping digital systems safe from attacks by external parties. In the most general sense, this field usually involves a range of different technologies, strategies and processes that are implemented on digital systems to protect sensitive information from unauthorised access or tampering, while also ensuring that these digital systems remain accessible and functional for the people who rely on them.
 

@@ -1,145 +1,102 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
-# Software Engineering
+# A Guide to Software Engineering
 
-Software Engineering is one of the most popular career paths for computing graduates. This field focuses on designing, developing, and maintaining software systems.
+## About the Writer
 
-## Overview
+Hello, I am Zhi Xuan, a Year 3 undergraduate student studying Computer Science, and I am sharing insights about the industry, as well as tips to survive within it.
 
-Software engineers apply engineering principles to build software products. The field encompasses a wide range of specializations, each with its own set of required skills and daily responsibilities.
+I am currently working as a Software Engineering Intern at SAP Singapore, where I work with distributed cloud systems in the backend, to scale and ensure reliability and availability in containerised applications. I will be interning in TikTok Singapore, where I will be working on backend engineering in the LIVE platform.
 
-## Specializations
+## What is Software Engineering
 
-### Backend Engineering
+xxx 
 
-Backend engineers focus on server-side logic, database management, and application architecture.
+I believe that internships are essential in the industry today. Firstly, the curriculum teaches us only the base of what we need to know, and having experience implementing systems on the ground gives you a definitive edge over other applicants. Secondly, industry experience will help you learn essential real-world techniques that helps you to develop good systems. For instance, having good version control, and maintaining a Continuous Integration and Continuous Development (CICD) pipeline for an application to ensure consistency in deployment are skills that are not covered in school. Lastly, with the ever-increasing demand for jobs in this industry, it is essential to gain experiences that are relevant to your future full time employment.
 
-**Key Responsibilities:**
-- Designing and implementing APIs
-- Building and maintaining database systems
-- Ensuring application performance and scalability
-- Implementing business logic and authentication systems
+You can find internships at many places, not limited to:
+- LinkedIn
+- Indeed
+- NTU CareerAxis
+- InPlace portal for your professional attachment
 
-**Technologies and Skills:**
-- Programming Languages: Java, Python, Go, Node.js, C#
-- Databases: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)
-- API Design: REST, GraphQL
-- System Design and Architecture
-- Cloud Services: AWS, GCP, Azure
+An underrated technique to find internships would be through networking – join different clubs and societies outside of school to meet experienced developers who may be looking for interns. One example would be Better.sg, a tech-for-good volunteer organisation that builds applications for social good.
 
-**NUS Courses Relevant to Backend Engineering:**
-- CS2103T Software Engineering
-- CS3219 Software Engineering Principles and Patterns
-- CS2102 Database Systems
-- CS2105 Introduction to Computer Networks
-- CS3211 Parallel and Concurrent Programming
 
-### Frontend Engineering
+## Why is this field important in today's industry?
+xxx
 
-Frontend engineers build the user interfaces and experiences that allow users to interact with software applications.
+## What kinds of companies or industries need software engineers?
 
-**Key Responsibilities:**
-- Implementing responsive designs
-- Building interactive UI components
-- Managing state and data flow in applications
-- Ensuring cross-browser compatibility
-- Optimizing performance and accessibility
+xxx
 
-**Technologies and Skills:**
-- HTML, CSS, JavaScript
-- Frontend Frameworks: React, Vue, Angular
-- State Management: Redux, Context API, Vuex
-- Build Tools: Webpack, Babel
-- CSS Preprocessors and Frameworks: SASS, Tailwind CSS
-- Testing: Jest, Cypress
+## Personal Journey
 
-**NUS Courses Relevant to Frontend Engineering:**
-- CS3240 Interaction Design
-- CS3249 User Interface Development
-- CS4247 Graphics Rendering Techniques
+### How I got started in Software Engineering
 
-### DevOps Engineering
+I gained interest in this field when I learned web development from CS50, a free online course by Harvard University that teaches you the fundamentals of coding and development. Since then, I have built other side projects to explore different stacks of technology (frontend, backend, cloud, devops).
 
-DevOps engineers bridge development and operations, focusing on automation, deployment, and infrastructure management.
+### How internships shaped my understanding
 
-**Key Responsibilities:**
-- Setting up CI/CD pipelines
-- Managing cloud infrastructure
-- Monitoring system performance
-- Automating deployment processes
-- Implementing security best practices
+The internships that I participated in helped to shape my understanding of technical concepts, through implementation and feedback. While working on tasks, it is inevitable that you would have to research deeply online about certain technologies. This helps you gain a deeper understanding of how it was implemented, and how applications work together. At the same time, senior engineers would help to review your code and provide suggestions, helping you to understand your flaws or learn new techniques to improve your coding productivity.
 
-**Technologies and Skills:**
-- Containerization: Docker, Kubernetes
-- CI/CD Tools: Jenkins, GitHub Actions, GitLab CI
-- Infrastructure as Code: Terraform, CloudFormation
-- Monitoring Tools: Prometheus, Grafana, ELK Stack
-- Scripting Languages: Bash, Python
+### Key lessons learned
 
-**NUS Courses Relevant to DevOps:**
-- CS3213 Software Systems Design
-- CS3219 Software Engineering Principles and Patterns
-- CS4238 Computer Security Practice
-- CS4224 Distributed Databases
+However, I believe the key lesson would be the soft skills – taking the initiative to help with others' tasks even when nothing is assigned, and going beyond what was assigned to bring additional value to your task. These skills will help you become a better team player and more likable person.
 
-## Day in the Life of a Software Engineer
+## Recommended Learning Paths
 
-Most software engineers follow a general pattern in their workday:
+### Getting Started
 
-1. **Stand-up Meetings**: Brief team check-ins to discuss progress and blockers
-2. **Coding Time**: Focused work on assigned tasks or projects
-3. **Code Reviews**: Reviewing colleagues' code and addressing review comments
-4. **Collaboration**: Meetings with product managers, designers, or other engineers
-5. **Learning**: Keeping up with new technologies and best practices
+To start exploring this field, you should firstly work on your own projects to gauge your interest in the field; simply copying a YouTube tutorial to build your own Gen AI powered chatbot, and tweaking it to your own use case would be a good start. Of course, it is essential that you understand every section of the code added.
 
-## Career Progression
+### Early Career Development
 
-A typical career path in software engineering might look like:
+Next, you should try to find a start-up to intern for, in your first and/or second summer. Companies rarely ever take Year 1 students – big tech companies are the only exception, but be prepared for advanced algorithm/development questions. Start-ups are the best companies to gain experience in, because of the fast pace of work, and the exposure to every facet of their stack, meaning you will likely be pushing code for them regularly.
 
-1. **Junior Software Engineer**: 0-2 years experience, focuses on implementing features under guidance
-2. **Software Engineer**: 2-5 years experience, works independently on features and subsystems
-3. **Senior Software Engineer**: 5+ years experience, makes architectural decisions and mentors juniors
-4. **Staff Engineer/Tech Lead**: Technical leadership role, sets technical direction for teams
-5. **Principal Engineer/Architect**: Shapes technical strategy across multiple teams or the entire organization
+### Technical Preparation
 
-## Industry Insights from NUS Alumni
+Optionally, you can focus on studying for online assessments through platforms like LeetCode and CodeForces (only if you are proficient in LeetCode), because most companies have 1 or more coding rounds. Be sure to understand not only the reasoning behind using a certain algorithm, but also the time complexity, and possible follow up questions. For instance, recruiters could initially ask you to find all pairs of numbers that sum up to a certain number, and then change the question to ask you to find all triplets instead.
 
-> "As a backend engineer at Shopee, I work primarily with microservices architecture using Java and Go. The most valuable skills I learned at NUS were system design principles from CS3219 and database optimization from CS2102." 
-> - Class of 2020 graduate
+### Third Year Milestones
 
-> "Working as a frontend engineer at Google, I spend most of my time with React and TypeScript. The collaborative project experience from CS3216 was surprisingly relevant to my day-to-day work in a large engineering team."
-> - Class of 2021 graduate
+By the third year, you should optimally have some industry experience, as well as relative proficiency in algorithmic coding – these are not mandatory, but they are essential to pass the resume screening and initial online assessments for medium to big tech firms.
 
-## Preparation Tips
+### Resume and Application Strategy
 
-### Coursework
-Focus on building a strong foundation in data structures, algorithms, and software design principles.
+At the same time, you should have a well-crafted resume to assist you; it is said that recruiters spend less than 10 seconds viewing each resume. For instance, Jake's template is a very popular resume that has helped many. Additionally, be sure to hide your GPA if it is below 4.2, as some companies unfortunately fixate on your results – this will help them focus on your industry skills instead.
 
-### Projects
-Build side projects that demonstrate your ability to create complete software systems, not just isolated components.
+The final tip would be to apply as soon as possible. Although this is a myth, it is believed that resumes are viewed in sequence of application submissions, and beyond a certain cut-off, your application would not even be viewed. Therefore, when using platforms like LinkedIn, you can change the date ranges to only show you applications that were posted within the last 3 days or 24 hours.
 
-### Internships
-Seek internships early to gain real-world experience and understand industry practices.
+## Interview Preparation
 
-### Interview Preparation
-Practice coding interviews on platforms like LeetCode, HackerRank, and interview preparation websites.
+### Types of Technical Interviews
 
-## Resources
+The interview could consist of different components.
 
-### Books
-- "Clean Code" by Robert C. Martin
-- "Design Patterns" by Gang of Four
-- "The Pragmatic Programmer" by Andrew Hunt and David Thomas
+1. **Start-up Interviews**
+   - Start-ups tend to ask you to develop a proof-of-concept on the spot, or ask software related concepts.
+   - For example, I was asked to code a social media application on React.js with certain requirements.
+   - These companies are interested in whether you are able to deliver with certain technologies in your resume.
 
-### Online Courses
-- CS50 by Harvard (edX)
-- Software Engineering courses on Coursera and Udemy
-- Frontend Masters for web development
+2. **Tech Firms and Investment Banks**
+   - Technology-based firms and investment banks tend to ask you core concepts about Computer Science.
+   - You could be asked anything between database design, data structures and algorithms, networking concepts, operating system concepts and more.
+   - At the same time, they often ask 1-3 medium difficulty coding questions.
 
-### Communities
-- GitHub
-- Stack Overflow
-- Dev.to
-- Tech meetups in Singapore 
+Above all, you will do well as long as you study your core Computer Science concepts well, and you are deeply familiar with each technology that you indicate in your resume. Lying on the resume can only help you pass the initial screening stage.
+
+### Behavioral Questions
+
+Other than coding rounds mentioned earlier, all firms are likely to ask behavioural questions. The most common and essential question would be: "Why did you choose our firm?". It is paramount that you familiarise yourself with the company's background to gain additional brownie points. At the same time, these are common questions:
+1. What are your strengths and weaknesses?
+2. Give me an example of when you worked as a team / lead a team for a technology-based project.
+3. Give me an example of when you handled conflict / spoke up about unethical practices etc.
+
+It is important to have at least one interesting story that you can twist to answer different variations of these questions.
+
+### The Reverse Interview
+
+Your value comes at the end of the interview – the reverse interview. You must make sure to be interested in what the interviewer does, relate to their job scope, and show why you would be a good fit in their team. This stage is severely underrated, but it can be the make-or-break in terms of your cultural fit to the team. In fact, this skill has helped me do well even in interviews where I did not perform the best technically. Remember, the interview is essentially a way for you to pitch yourself to an investor who will invest time, money and experience to you over a few months.

@@ -2,7 +2,13 @@
 sidebar_position: 4
 ---
 
-# What is Quantitative Finance?
+# A Guide to Quantitative Finance
+
+## About the writer
+
+xxx
+
+## What is Quantitative Finance?
 
 Quantitative Finance combines financial theory, mathematics, and computer science to solve complex financial problems and develop sophisticated trading strategies.
 
@@ -77,7 +83,7 @@ If you're not a math major, chances are, doing some math BDEs from SPMS will def
 
 The common programming languages in quant are Python and C/C++. Python is usually used for research and data analysis, while C/C++ is used for implementing and executing strategies or models. However, these are very general guidelines and different firms very likely use different languages, so please take this with a grain of salt and do your own research too.
 
-## Internship Preparation Tips
+## The Bottom Line
 
 From my experience, interviewers typically look for 3 things in a candidate:
 
