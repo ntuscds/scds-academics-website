@@ -106,11 +106,64 @@ const sidebars = {
       label: 'CS Fields',
       items: [
         'career/cs-fields/index',
-        'career/cs-fields/software-engineering',
-        'career/cs-fields/machine-learning',
-        'career/cs-fields/quantitative-finance',
-        'career/cs-fields/product-management',
-        'career/cs-fields/cybersecurity',
+        {
+          type: 'category',
+          label: 'Software Development',
+          items: [
+            {
+              type: 'doc',
+              id: 'career/cs-fields/software-engineering',
+              label: 'Software Engineer',
+            },
+            {
+              type: 'doc',
+              id: 'career/cs-fields/devops',
+              label: 'DevOps Engineer',
+            },
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Machine Learning',
+          items: [
+            {
+              type: 'doc',
+              id: 'career/cs-fields/machine-learning-engineer',
+              label: 'ML Engineer',
+            },
+            {
+              type: 'doc',
+              id: 'career/cs-fields/machine-learning-researcher',
+              label: 'ML Researcher',
+            },
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Finance Technology',
+          items: [
+            {
+              type: 'doc',
+              id: 'career/cs-fields/quantitative-finance',
+              label: 'Quantitative Finance',
+            },
+            {
+              type: 'doc',
+              id: 'career/cs-fields/blockchain-web3',
+              label: 'Blockchain & Web3',
+            },
+          ],
+        },
+        {
+          type: 'doc',
+          id: 'career/cs-fields/product-management',
+          label: 'Product Manager',
+        },
+        {
+          type: 'doc',
+          id: 'career/cs-fields/cybersecurity',
+          label: 'Cybersecurity',
+        },
       ],
     },
     {

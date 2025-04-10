@@ -131,6 +131,14 @@ const config = {
                 to: '/docs/career/cs-fields',
               },
               {
+                label: 'DevOps',
+                to: '/docs/career/cs-fields/devops',
+              },
+              {
+                label: 'Blockchain & Web3',
+                to: '/docs/career/cs-fields/blockchain-web3',
+              },
+              {
                 label: 'Resources',
                 to: '/docs/career/resources',
               },
