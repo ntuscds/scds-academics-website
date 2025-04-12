@@ -6,6 +6,70 @@ sidebar_position: 3
 
 ## About the Writer
 
+<div style={{ 
+  display: 'flex', 
+  alignItems: 'center', 
+  gap: '1.5rem', 
+  marginBottom: '2rem', 
+  padding: '1rem', 
+  backgroundColor: 'var(--ifm-card-background-color)', 
+  borderRadius: '8px',
+  boxShadow: 'var(--ifm-global-shadow-lw)'
+}}>
+  <div style={{ width: '135px', height: '180px', overflow: 'hidden', borderRadius: '4px' }}>
+    <img
+      src="/img/docs/contributors/priscilla-celine-setiawan.jpg"
+      alt="Priscilla Celine Setiawan"
+      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+    />
+  </div>
+  <div style={{ flex: 1 }}>
+    <h3 style={{ marginTop: 0, marginBottom: '0.75rem', fontSize: '1.5rem' }}>Priscilla Celine Setiawan</h3>
+    
+    <div style={{ display: 'flex', alignItems: 'center', marginBottom: '0.5rem' }}>
+      <div style={{ 
+        backgroundColor: 'var(--ifm-color-emphasis-100)', 
+        color: 'var(--ifm-color-emphasis-800)', 
+        fontSize: '0.8rem', 
+        padding: '0.25rem 0.5rem', 
+        borderRadius: '4px',
+        marginRight: '0.5rem'
+      }}>
+        Year 4 Computer Science
+      </div>
+      <div style={{ 
+        backgroundColor: 'var(--ifm-color-emphasis-100)', 
+        color: 'var(--ifm-color-emphasis-800)', 
+        fontSize: '0.8rem', 
+        padding: '0.25rem 0.5rem', 
+        borderRadius: '4px'
+      }}>
+        DevSecOps Engineer
+      </div>
+    </div>
+    
+    <a 
+      href="https://www.linkedin.com/in/priscilla-celine/" 
+      target="_blank" 
+      rel="noopener noreferrer"
+      style={{ 
+        display: 'inline-flex', 
+        alignItems: 'center', 
+        gap: '0.4rem',
+        fontSize: '0.85rem',
+        color: 'var(--ifm-color-primary)',
+        textDecoration: 'none',
+        marginTop: '0.5rem'
+      }}
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style={{ flexShrink: 0, position: 'relative', top: '1px' }}>
+        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+      </svg>
+      <span style={{ position: 'relative', top: '-1px' }}>Connect on LinkedIn</span>
+    </a>
+  </div>
+</div>
+
 Hi, I am Priscilla Celine Setiawan, a Year 4 student studying Computer Science. I am excited to share insights about DevOps Engineering based on my past experiences interning in this industry. I recently completed an internship as a DevSecOps Engineer at minden.ai, where I worked on automating infrastructure deployment, enhancing security monitoring, and optimizing cloud resources. As I approach graduation, I'm passionate about helping fellow students navigate their own paths in the ever-evolving tech landscape. Feel free to connect with me on LinkedIn.
 
 ## What is DevOps?

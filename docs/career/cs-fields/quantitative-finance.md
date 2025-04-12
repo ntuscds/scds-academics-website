@@ -4,9 +4,77 @@ sidebar_position: 4
 
 # A Guide to Quantitative Finance
 
-## About the writer
+## About the Writer
 
-xxx
+<div style={{ 
+  display: 'flex', 
+  alignItems: 'center', 
+  gap: '1.5rem', 
+  marginBottom: '2rem', 
+  padding: '1rem', 
+  backgroundColor: 'var(--ifm-card-background-color)', 
+  borderRadius: '8px',
+  boxShadow: 'var(--ifm-global-shadow-lw)'
+}}>
+  <div style={{ width: '135px', height: '180px', overflow: 'hidden', borderRadius: '4px' }}>
+    <img
+      src="/img/docs/contributors/horstann-ho-yui-yao.jpg"
+      alt="Horstann"
+      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+    />
+  </div>
+  <div style={{ flex: 1 }}>
+    <h3 style={{ marginTop: 0, marginBottom: '0.75rem', fontSize: '1.5rem' }}>Horstann Ho Rui Yao</h3>
+    
+    <div style={{ display: 'flex', alignItems: 'center', marginBottom: '0.5rem' }}>
+      <div style={{ 
+        backgroundColor: 'var(--ifm-color-emphasis-100)', 
+        color: 'var(--ifm-color-emphasis-800)', 
+        fontSize: '0.8rem', 
+        padding: '0.25rem 0.5rem', 
+        borderRadius: '4px',
+        marginRight: '0.5rem'
+      }}> 
+        Year 4 Data Science & AI
+      </div>
+      <div style={{ 
+        backgroundColor: 'var(--ifm-color-emphasis-100)', 
+        color: 'var(--ifm-color-emphasis-800)', 
+        fontSize: '0.8rem', 
+        padding: '0.25rem 0.5rem', 
+        borderRadius: '4px'
+      }}>
+        Quant Strategist
+      </div>
+    </div>
+    
+    <a 
+      href="https://www.linkedin.com/in/horstann/" 
+      target="_blank" 
+      rel="noopener noreferrer"
+      style={{ 
+        display: 'inline-flex', 
+        alignItems: 'center', 
+        gap: '0.4rem',
+        fontSize: '0.85rem',
+        color: 'var(--ifm-color-primary)',
+        textDecoration: 'none',
+        marginTop: '0.5rem'
+      }}
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style={{ flexShrink: 0, position: 'relative', top: '1px' }}>
+        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+      </svg>
+      <span style={{ position: 'relative', top: '-1px' }}>Connect on LinkedIn</span>
+    </a>
+  </div>
+</div>
+
+Hello! I'm Horstann, a proud Malaysian and final year Data Science & AI undergrad at NTU, where I developed my love for quantitative finance. I've successfully published a machine learning in quant finance research paper as part of a book on Springer Nature.
+
+To experience how quant finance is like in the industry, I've also interned at numerous firms ranging from hedge funds, systematic prop trading shops to investment banks, from which I received multiple full-time return offers. These internships allowed me to get my hands dirty with mathematical modelling and machine learning applied in sub-areas like alpha research, derivative pricing and more. Upon graduation, I'll be returning to Goldman Sachs as a full-time quant strategist/researcher.
+
+I hope my write-up will help you decide if quant finance is right for you, and if so, get you a head-start in the field like I had when I started!
 
 ## What is Quantitative Finance?
 
