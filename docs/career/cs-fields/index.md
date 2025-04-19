@@ -17,4 +17,5 @@ The tech industry offers diverse career paths that cater to different interests 
 
 ## Contributors
 
-All articles in this section are written by NTU students and alumni who have experience in these fields through internships, full-time roles, or significant projects. If you'd like to contribute your insights about a CS field, please contact us!
+All articles in this section are written by NTU students and alumni who have experience in these fields through internships, full-time roles, or significant projects. If you'd like to contribute your insights about a CS field, please contact us through email:  
+**SCDS-ACADEMICS@e.ntu.edu.sg!**
