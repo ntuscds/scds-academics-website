@@ -2,12 +2,22 @@
 sidebar_position: 2
 ---
 
+import Profile from '@site/src/components/Profile';
 
 # A Guide to Machine Learning Research
 
 ## About the writer
 
+<Profile
+  src="/img/docs/contributors/joshua-adrian-cahyono.jpg"
+  alt="Joshua Adrian Cahyono"
+  name="Joshua Adrian Cahyono"
+  tags={["Data Science and Artificial Intelligence", "Batch 2026", "A*STAR", "Continental", "Temasek"]}
+  linkedinUrl="https://www.linkedin.com/in/joshua-adrian-cahyono/"
+  personalWebsite="https://jvthunder.org/"
+/>
 
+Hi, I'm Joshua, a an undergraduate studying Data Science and Artificial Intelligence (Batch 2026) at NTU Singapore. I'm passionate about applying AI to solve real-world problems and create meaningful impact. My research interests lie in both Generative AI and Reinforcement Learning, and I've published papers in both areas. I'm currently working as a Machine Learning Research Engineer Intern at Temasek Laboratories, NTU.
 
 ## What is AI?
 
@@ -15,7 +25,7 @@ At this point, most people have a rough idea of what Artificial Intelligence is.
 
 *Artificial Intelligence is a technology that allows machines to learn from data and make decisions based on that learning.*
 
-So no, it’s not magic — it’s just math and patterns. A machine trained on data learns to recognize patterns and use them to make predictions, classify stuff, or even generate new content.
+So no, it's not magic — it's just math and patterns. A machine trained on data learns to recognize patterns and use them to make predictions, classify stuff, or even generate new content.
 
 AI has come a long way — from science fiction to something you interact with daily. Think Siri, Alexa, Google Translate, Spotify recommendations, ChatGPT — AI is shaping how we use tech.
 
@@ -28,7 +38,7 @@ Right now, many argue we've reached **General AI** — or at least something clo
 
 ## Why is AI important?
 
-We’re in the brink of one of the biggest technological revolution in history. It is the only time when intelligence itself is becoming a commodity. Businesses are automating workflows, making smarter decisions, and cutting costs using AI. At the same time, new startups are emerging *as AI companies*, offering tools powered entirely by machine learning. 
+We're in the brink of one of the biggest technological revolution in history. It is the only time when intelligence itself is becoming a commodity. Businesses are automating workflows, making smarter decisions, and cutting costs using AI. At the same time, new startups are emerging *as AI companies*, offering tools powered entirely by machine learning. 
 
 In short — AI is becoming the brain of the digital economy. Ignore it, and you fall behind.
 
@@ -37,7 +47,7 @@ In short — AI is becoming the brain of the digital economy. Ignore it, and you
 
 Right now, most AI-related jobs are still centered in the **tech industry** — especially in companies that are building AI products or infrastructure (e.g., OpenAI, Google DeepMind, Meta, Microsoft, etc.).
 
-But we’re at the tipping point. As AI gets more integrated into everyday systems, **we’ll start to see AI roles across every industry** — not just in building AI, but in applying it.
+But we're at the tipping point. As AI gets more integrated into everyday systems, **we'll start to see AI roles across every industry** — not just in building AI, but in applying it.
 
 Industries already hiring AI engineers and researchers:
 - **Healthcare**: AI for diagnosis, drug discovery, and hospital management
@@ -49,7 +59,7 @@ Industries already hiring AI engineers and researchers:
 
 In Singapore, agencies like **AISG (AI Singapore)** and **GovTech** are pushing AI forward through national initiatives. Plus, startups and unicorns in ASEAN are increasingly building AI into their core products.
 
-Over the next **5–10 years**, AI won’t just be a niche skill — it will be a foundational skill across sectors. From optimizing supply chains to personalizing education, **AI will power the next wave of digital transformation**.
+Over the next **5–10 years**, AI won't just be a niche skill — it will be a foundational skill across sectors. From optimizing supply chains to personalizing education, **AI will power the next wave of digital transformation**.
 
 In short: **AI engineers will be everywhere**.
 
@@ -89,7 +99,7 @@ This is just a small sample of the roles available. As this is a growing field, 
 
 The term "AI" has been around for decades, but only recently has it become a game changer. My interest in AI sparked during high school after watching the AlphaGo [documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y). As a chess and Go player, I was fascinated by how a machine could defeat top human players in a game long thought too complex for computers. That moment was stuck with me for a long time, and I knew I wanted to be part of this journey.
 
-When I got into NTU’s Data Science and AI program, I started learning even before university began—taking the DeepLearning.ai course. I loved the math behind neural networks and seeing it applied in real life, like building my first cat vs dog classifier from scratch. This was the start of my AI journey.
+When I got into NTU's Data Science and AI program, I started learning even before university began—taking the DeepLearning.ai course. I loved the math behind neural networks and seeing it applied in real life, like building my first cat vs dog classifier from scratch. This was the start of my AI journey.
 
 <!-- <figure style="text-align: center;">
   <img src="../images/cat-vs-dog.jpg" alt="First Capstone Project: Cat vs Dog">
@@ -119,7 +129,7 @@ I landed a summer internship at A*STAR by cold-emailing and applying early. I wo
 
 ### 3. NTU URECA (Year 2) - LMMs Benchmarks and Evaluations Pipeline
 
-In parallel, I joined Asst. Prof. Ziwei Liu’s lab through NTU’s URECA program to work on benchmarking and evaluation pipelines for large multimodal models (LMMs). Though I initially hoped to work on CV or RL, I learned a lot about LLMs and collaborated closely with PhDs. Collaborating with PhD mentors also gave me a glimpse into rigorous academic research and teamwork.
+In parallel, I joined Asst. Prof. Ziwei Liu's lab through NTU's URECA program to work on benchmarking and evaluation pipelines for large multimodal models (LMMs). Though I initially hoped to work on CV or RL, I learned a lot about LLMs and collaborated closely with PhDs. Collaborating with PhD mentors also gave me a glimpse into rigorous academic research and teamwork.
 
 This resulted in co-authorship on two papers, including [Otter-2](https://github.com/EvolvingLMMs-Lab/Otter) model and [LMMS-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) pipeline.
 
