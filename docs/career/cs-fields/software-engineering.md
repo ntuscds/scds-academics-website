@@ -2,11 +2,19 @@
 sidebar_position: 4
 ---
 
+import Profile from '@site/src/components/Profile';
+
 # A Guide to Software Engineering
 
 ## About the Writer
 
-Hello, I am Zhi Xuan, a Year 3 undergraduate student studying Computer Science, and I am sharing insights about the industry, as well as tips to survive within it.
+<Profile
+  src="/img/docs/contributors/neo-zhi-xuan.jpg"
+  alt="Neo Zhi Xuan"
+  name="Neo Zhi Xuan"
+  tags={["Computer Science", "Batch 2025", "Backend Engineer", "TikTok", "SAP"]}
+  linkedinUrl="https://www.linkedin.com/in/neozhixuan/"
+/>
 
 I am currently working as a Software Engineering Intern at SAP Singapore, where I work with distributed cloud systems in the backend, to scale and ensure reliability and availability in containerised applications. I will be interning in TikTok Singapore, where I will be working on backend engineering in the LIVE platform.
 
@@ -16,7 +24,7 @@ If you have done SC2006, software engineering feels like it is just the creation
 
 ## Why is this field important in today's industry?
 
-The field is extremely important in today’s industry, as it powers most companies to improve productivity and reduce manhours in various tasks. For instance, a generative AI chatbot in a company’s landing page could reduce the number of workers needed for customer support greatly. Major technological companies like Google power the world today, and it couldn’t have been built without great optimisations in cloud systems – an example of this is the invention of Kubernetes.
+The field is extremely important in today's industry, as it powers most companies to improve productivity and reduce manhours in various tasks. For instance, a generative AI chatbot in a company's landing page could reduce the number of workers needed for customer support greatly. Major technological companies like Google power the world today, and it couldn't have been built without great optimisations in cloud systems – an example of this is the invention of Kubernetes.
 
 ## What kinds of companies or industries need software engineers?
 

@@ -2,81 +2,27 @@
 sidebar_position: 4
 ---
 
+import Profile from '@site/src/components/Profile';
+
 # A Guide to Quantitative Finance
 
 ## About the Writer
 
-<div style={{ 
-  display: 'flex', 
-  alignItems: 'center', 
-  gap: '1.5rem', 
-  marginBottom: '2rem', 
-  padding: '1rem', 
-  backgroundColor: 'var(--ifm-card-background-color)', 
-  borderRadius: '8px',
-  boxShadow: 'var(--ifm-global-shadow-lw)'
-}}>
-  <div style={{ width: '135px', height: '180px', overflow: 'hidden', borderRadius: '4px' }}>
-    <img
-      src="/img/docs/contributors/horstann-ho-yui-yao.jpg"
-      alt="Horstann"
-      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-    />
-  </div>
-  <div style={{ flex: 1 }}>
-    <h3 style={{ marginTop: 0, marginBottom: '0.75rem', fontSize: '1.5rem' }}>Horstann Ho Rui Yao</h3>
-    
-    <div style={{ display: 'flex', alignItems: 'center', marginBottom: '0.5rem' }}>
-      <div style={{ 
-        backgroundColor: 'var(--ifm-color-emphasis-100)', 
-        color: 'var(--ifm-color-emphasis-800)', 
-        fontSize: '0.8rem', 
-        padding: '0.25rem 0.5rem', 
-        borderRadius: '4px',
-        marginRight: '0.5rem'
-      }}> 
-        Year 4 Data Science & AI
-      </div>
-      <div style={{ 
-        backgroundColor: 'var(--ifm-color-emphasis-100)', 
-        color: 'var(--ifm-color-emphasis-800)', 
-        fontSize: '0.8rem', 
-        padding: '0.25rem 0.5rem', 
-        borderRadius: '4px'
-      }}>
-        Quant Strategist
-      </div>
-    </div>
-    
-    <a 
-      href="https://www.linkedin.com/in/horstann/" 
-      target="_blank" 
-      rel="noopener noreferrer"
-      style={{ 
-        display: 'inline-flex', 
-        alignItems: 'center', 
-        gap: '0.4rem',
-        fontSize: '0.85rem',
-        color: 'var(--ifm-color-primary)',
-        textDecoration: 'none',
-        marginTop: '0.5rem'
-      }}
-    >
-      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style={{ flexShrink: 0, position: 'relative', top: '1px' }}>
-        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
-      </svg>
-      <span style={{ position: 'relative', top: '-1px' }}>Connect on LinkedIn</span>
-    </a>
-  </div>
-</div>
+<Profile
+  src="/img/docs/contributors/horstann-ho-yui-yao.jpg"
+  alt="Horstann"
+  name="Horstann Ho Rui Yao"
+  tags={["Data Science & AI", "Batch 2025", "Goldman Sachs","Quant Strategist"]}
+  linkedinUrl="https://www.linkedin.com/in/horstann/"
+/>
 
-Hello! I'm Horstann, a proud Malaysian and final year Data Science & AI undergrad at NTU, where I developed my love for quantitative finance. I've successfully published a machine learning in quant finance research paper as part of a book on Springer Nature.
+Hello! I'm Horstann, a proud Malaysian and Data Science & AI undergrad at NTU (Batch 2025), where I developed my love for quantitative finance. I've successfully published a machine learning in quant finance research paper as part of a book on Springer Nature.
 
 To experience how quant finance is like in the industry, I've also interned at numerous firms ranging from hedge funds, systematic prop trading shops to investment banks, from which I received multiple full-time return offers. These internships allowed me to get my hands dirty with mathematical modelling and machine learning applied in sub-areas like alpha research, derivative pricing and more. Upon graduation, I'll be returning to Goldman Sachs as a full-time quant strategist/researcher.
 
 I hope my write-up will help you decide if quant finance is right for you, and if so, get you a head-start in the field like I had when I started!
 
-## What is Quantitative Finance?
+## What do Quants Do?
 
 Quantitative Finance combines financial theory, mathematics, and computer science to solve complex financial problems and develop sophisticated trading strategies.
 
@@ -84,7 +30,7 @@ Quantitative Finance combines financial theory, mathematics, and computer scienc
 
 Quantitative researchers/strategists/analysts use or develop mathematical/statistical models/algorithms to analyze data and derive insights about the financial markets, which in turn can help drive trading or investment decisions.
 
-## What kinds of industries need quants?
+## What firms hire Quants?
 
 These types of quants are often found in hedge funds, proprietary trading shops, banks or even in advanced academia. They can be working with any major asset class – from equities (stocks), commodities, currencies, fixed income, cryptocurrencies to futures, options and other exotic financial derivatives.
 
@@ -92,14 +38,9 @@ These types of quants are often found in hedge funds, proprietary trading shops,
 
 Below are 3 types of quant researchers/strategists/analysts (general and non-exhaustive):
 
-### 1. Alpha/Strategy Researchers
-They research new or maintain existing trading/market-making strategies/models, which helps the firm generate revenue.
-
-### 2. Derivatives Specialists
-They work on pricing or structuring financial derivatives, as well as help traders or portfolio managers risk-manage or hedge positions. This often requires knowledge in stochastic calculus and derivative instruments.
-
-### 3. Quant Portfolio Managers
-They work on portfolio optimization problems (how money is allocated across their portfolio of assets or strategies/alphas) and may often lead the general research direction of their team. Though these roles are often reserved for senior quants.
+1. **Alpha/Strategy Researchers** – They research new or maintain existing trading/market-making strategies/models, which helps the firm generate revenue.
+2. **Derivatives Specialists** – They work on pricing or structuring financial derivatives, as well as help traders or portfolio managers risk-manage or hedge positions. This often requires knowledge in stochastic calculus and derivative instruments.
+3. **Quant Portfolio Managers** – They work on portfolio optimization problems (how money is allocated across their portfolio of assets or strategies/alphas) and may often lead the general research direction of their team. Though these roles are often reserved for senior quants.
 
 ## How is this field important in today's industry?
 
@@ -159,4 +100,4 @@ From my experience, interviewers typically look for 3 things in a candidate:
 2. **Knowledge** – whether you deeply and intuitively understand concepts you've learnt in school and in projects
 3. **Intelligence** – whether you can think outside the box, adopt a systematic approach to solving new problems, and communicate your thought process clearly
 
-That's about it for now. My final advice: have fun! Quant is exciting, math is beautiful, and learning is a fulfilling journey 
+That's about it for now. My final advice: have fun!

@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ## About the writer
 
-xxx
+
 
 ## What is AI?
 
