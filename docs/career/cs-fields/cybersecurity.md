@@ -2,11 +2,23 @@
 sidebar_position: 6
 ---
 
+import Profile from '@site/src/components/Profile';
+
 # A Guide to Cybersecurity
 
 ## About the Writer
 
-xxx
+<Profile
+  src="/img/docs/contributors/aidan-ling.jpg"
+  alt="Aidan Ling"
+  name="Aidan Ling"
+  tags={["Computer Science", "Batch 2026", "Cybersecurity Engineer", "CSIT", "A*STAR"]}
+  linkedinUrl="https://www.linkedin.com/in/aidanlingzy/"
+/>
+
+Hello! My name is Aidan, and I am currently an Undergraduate student studying Computer Science (Batch 2026). I have a keen interest in the field of cybersecurity, and will be sharing a bit more about what the field is about in this short guide!
+
+As for my credentials and past experiences, I am CCNA, OSCP, and AWS-SAA-C03 Certified, and I previously interned at the Centre for Strategic Infocomm Technologies (CSIT), where I was doing cybersecurity research on Golang-based malware. For this upcoming Summer 2025, I will be interning at Apple as part of their global security operations team.
 
 ## What is Cybersecurity?
 
