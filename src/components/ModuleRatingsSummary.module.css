@@ -1,0 +1,31 @@
+.ratingsContainer {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Dark mode styles for the ratings container */
+[data-theme='dark'] .ratingsContainer {
+  background-color: #2d2d2d; /* Darker background for dark mode */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.ratingsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 12px 24px;
+}
+
+@media (max-width: 768px) {
+  .ratingsGrid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  
+  .ratingsContainer {
+    padding: 14px 16px;
+    margin-bottom: 20px;
+  }
+} 
