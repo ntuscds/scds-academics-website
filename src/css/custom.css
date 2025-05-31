@@ -34,3 +34,48 @@
   height: 2.5rem;
   width: auto;
 }
+
+/**
+ * You can override the default Docusaurus CSS variables here.
+ * See https://docusaurus.io/docs/styling-layout for more info.
+ */
+
+/* Contributors page: Hide sidebar and make full-width */
+.contributors-no-sidebar .main-wrapper {
+  max-width: none !important;
+}
+
+.contributors-no-sidebar .docusaurus-doc-version-badge {
+  display: none !important;
+}
+
+.contributors-no-sidebar .theme-doc-sidebar-container {
+  display: none !important;
+}
+
+.contributors-no-sidebar .main-wrapper .container .row .col:first-child {
+  display: none !important;
+}
+
+.contributors-no-sidebar .main-wrapper .container .row .col {
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
+}
+
+.contributors-no-sidebar .theme-doc-version-badge {
+  display: none !important;
+}
+
+/* Make the content container wider for contributors page */
+.contributors-no-sidebar .markdown {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Responsive adjustments for contributors page */
+@media (max-width: 768px) {
+  .contributors-no-sidebar .markdown {
+    padding: 0 1rem;
+  }
+}

@@ -94,6 +94,11 @@ const config = {
             position: 'left',
             label: 'SCDS Sub-clubs',
           },
+          {
+            to: '/docs/contributors',
+            position: 'left',
+            label: 'Contributors',
+          },
         ],
       },
       footer: {

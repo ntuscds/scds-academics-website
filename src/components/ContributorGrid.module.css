@@ -1,0 +1,154 @@
+.contributorGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin: 32px 0;
+}
+
+.contributorCard {
+  background: var(--ifm-card-background-color, #ffffff);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.contributorCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.photoContainer {
+  margin-bottom: 16px;
+}
+
+.profilePhoto {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--ifm-color-primary);
+  transition: transform 0.2s ease;
+}
+
+.contributorCard:hover .profilePhoto {
+  transform: scale(1.05);
+}
+
+.contributorInfo {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.name {
+  font-size: 1.25em;
+  font-weight: 700;
+  margin: 0 0 12px 0;
+  color: var(--ifm-color-content);
+}
+
+.contributions {
+  margin-bottom: 16px;
+  flex-grow: 1;
+}
+
+.contributions p {
+  color: var(--ifm-color-content-secondary);
+  font-size: 0.9em;
+  line-height: 1.4;
+  margin: 0;
+  font-style: italic;
+}
+
+.linkedinLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #0077b5;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9em;
+  padding: 8px 16px;
+  border: 1px solid #0077b5;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+  margin-top: auto;
+  align-self: center;
+}
+
+.linkedinLink:hover {
+  background-color: #0077b5;
+  color: white;
+  text-decoration: none;
+}
+
+.linkedinIcon {
+  flex-shrink: 0;
+}
+
+/* Dark mode support */
+[data-theme='dark'] .contributorCard {
+  background: var(--ifm-card-background-color);
+  border-color: var(--ifm-color-emphasis-300);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme='dark'] .contributorCard:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme='dark'] .linkedinLink {
+  color: #4fb3d9;
+  border-color: #4fb3d9;
+}
+
+[data-theme='dark'] .linkedinLink:hover {
+  background-color: #4fb3d9;
+  color: var(--ifm-color-content);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .contributorGrid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 24px 0;
+  }
+  
+  .contributorCard {
+    padding: 20px;
+  }
+  
+  .profilePhoto {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .name {
+    font-size: 1.1em;
+  }
+}
+
+/* Small mobile adjustments */
+@media (max-width: 480px) {
+  .contributorGrid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  
+  .contributorCard {
+    padding: 16px;
+  }
+  
+  .profilePhoto {
+    width: 90px;
+    height: 90px;
+  }
+} 
