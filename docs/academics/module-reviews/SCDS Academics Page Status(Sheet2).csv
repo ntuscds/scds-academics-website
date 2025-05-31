@@ -1,0 +1,79 @@
+Course Code,Past Course Codes,Module,Level,School,Final Exam
+SC1003,NA,Introduction to Computational Thinking & Programming,1,CCDS,No
+SC1004,CX1104,Linear Algebra for Computing,1,CCDS,
+SC1005,CX1105,Digital Logic,1,CCDS,
+SC1006,CX1106,Computer Organisation and Architecture,1,CCDS,
+SC1007,NA,Data Structures & Algorithms,1,CCDS,No
+SC1008,NA,C and C++ Programming,1,CCDS,
+SC1013,NA,Physics for Computing,1,CCDS,
+MH1805,NA,Calculus (Calculus I and II),1,SPMS,Yes
+MH1812,NA,Discrete Mathematics,1,SPMS,Yes
+SC2000,CX2100,Probability and Statistics for Computing,2,CCDS,
+SC2001,CX2001,Algorithm Design and Analysis,2,CCDS,Yes
+SC2002,CX2002,Object-oriented Design and Programming,2,CCDS,No
+SC2005,CX2005,Operating Systems,2,CCDS,
+SC2006,CX2006,Software Engineering,2,CCDS,Yes
+SC2008,CE3005/CZ3006,Computer Networks,2,CCDS,
+SC2079,NA,Multidisciplinary Design Project,2,CCDS,No
+SC2103,CE2003,Digital Systems Design,2,CCDS,
+SC2104,CE3002,"Sensors, Interfacing & Digital Control",2,CCDS,Yes
+SC2107,CE2007,Microprocessor-based System Design,2,CCDS,
+SC2203,NA,Automata. Computability and Complexity,2,CCDS,
+SC2207,CZ2007,Introduction to Database Systems,2,CCDS,Yes
+MH2100,NA,Calculus III,2,SPMS,Yes
+MH2500,NA,Probability and Introduction to Statistics,2,SPMS,Yes
+MH2802,NA,Linear Algebra for Scientists,2,SPMS,Yes
+SC3000,CZ3005,Artificial Intelligence,3,CCDS,Yes
+SC3010,CX4062,Computer Security,3,CCDS,
+SC3020,CX4031,Database System Principles,3,CCDS,
+SC3021,NA,Data Science Fundamentals (Only for U24 and after),3,CCDS,
+SC3030,CX4023,Advanced Computer Networks,3,CCDS,
+SC3040,CZ3002,Advanced Software Engineering,3,CCDS,Yes
+SC3050,CX3001,Advanced Computer Architecture,3,CCDS,Yes
+SC3060,CZ2003,Computer Graphics and Visualization,3,CCDS,Yes
+SC3061,CZ2004,Human-Computer Interaction,3,CCDS,
+SC3102,NA,"Signal, Systems, Transforms",3,CCDS,Yes
+SC3103,NA,Embedded Programming,3,CCDS,Yes
+MH3500,NA,Statistics,3,SPMS,Yes
+MH3510,NA,Regression Analysis,3,SPMS,Yes
+MH3511,NA,Data Analysis with Computer,3,SPMS,Yes
+MH3701,NA,Basic Optimization,3,SPMS,Yes
+SC4000,CX4041,Machine Learning,4,CCDS,Yes
+SC4001,CX4042,Neural Networks and Deep Learning,4,CCDS,Yes
+SC4002,CX4045,Natural Language Processing,4,CCDS,Yes
+SC4003,CX4046,Intelligent Agents,4,CCDS,
+SC4010,CX4024,Applied Cryptography,4,CCDS,No
+SC4011,CX4064,Security Management,4,CCDS,
+SC4012,CX4067,Software Security,4,CCDS,
+SC4013,CX4068,Application Security,4,CCDS,
+SC4014,CX4069,Concepts & Techniques for Malware Analysis,4,CCDS,
+SC4015,CX4055,Cyber Physical System Security,4,CCDS,
+SC4016,CX4070,Cyber Threat Intelligence,4,CCDS,
+SC4020,CX4032,Data Analytics and Mining,4,CCDS,Yes
+SC4021,CX4034,Information Retrieval,4,CCDS,
+SC4022,CX4071,Network Science,4,CCDS,
+SC4023,CX4123,Big Data Management,4,CCDS,
+SC4024,NA,Data Visualisation,4,CCDS,
+SC4025,CZ4125,Developing Data Products,4,CCDS,
+SC4030,NA,Wireless and Mobile Networks,4,CCDS,
+SC4031,NA,"Internet of Things: Communications & 
+Networking",4,CCDS,
+SC4040,CX4016,Advanced Topics in Algorithms,4,CCDS,Yes
+SC4050,NA,Parallel Computing,4,CCDS,
+SC4051,CX4013,Distributed Systems,4,CCDS,Yes
+SC4052,NA,Cloud Computing,4,CCDS,
+SC4053,CX4153,Blockchain Technology,4,CCDS,
+SC4054,CX4015,Simulation and Modelling,4,CCDS,Yes
+SC4060,CX4001,Virtual & Augmented Reality,4,CCDS,
+SC4061,CX4003,Computer Vision,4,CCDS,
+SC4062,NA,Generative Artificial Intelligence – Advanced Topics,4,CCDS,
+SC4172,CE4172,Internet of Things: Tiny Machine Learning,4,CCDS,
+SC4242,CZ3007,Compiler Techniques,4,CCDS,
+MH4500,NA,Time Series Analysis,4,SPMS,Yes
+MH4501,NA,Multivariate Analysis,4,SPMS,Yes
+MH4511,NA,Sampling & Survey,4,SPMS,Yes
+MH4513,NA,Survival Analysis,4,SPMS,Yes
+MH4517,NA,Data Applications in Natural Sciences,4,SPMS,No
+MH4518,NA,Simulation Techniques in Finance,4,SPMS,Yes
+CS4022,NA,Social Media Mining,4,WKWSCI,
+CS4031,NA,Media Planning and Strategies,4,WKWSCI,
