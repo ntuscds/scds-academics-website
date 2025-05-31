@@ -18,7 +18,7 @@ This page is made possible by the amazing contributions from SCDS members across
 <ContributorGrid contributors={[
   {
     name: "Jeremy Nathan Jusuf",
-    avatar: "/img/docs/contributors/jeremy-nathan-jusuf.jpg",
+    avatar: "/img/docs/contributors/jeremy-jusuf.jpg",
     contributions: "Coordinator & Web Developer\nDSAI Batch 2026",
     linkedin: "https://www.linkedin.com/in/jeremy-nathan-jusuf/"
   },
