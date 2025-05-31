@@ -128,15 +128,31 @@ const config = {
                 to: '/docs/career/cs-fields/software-engineering',
               },
               {
-                label: 'Machine Learning',
+                label: 'DevOps Engineer',
+                to: '/docs/career/cs-fields/devops',
+              },
+              {
+                label: 'Machine Learning Engineer',
                 to: '/docs/career/cs-fields/machine-learning-engineer',
+              },
+              {
+                label: 'Machine Learning Researcher',
+                to: '/docs/career/cs-fields/machine-learning-researcher',
+              },
+              {
+                label: 'Quantitative Finance',
+                to: '/docs/career/cs-fields/quantitative-finance',
+              },
+              {
+                label: 'Blockchain & Web3',
+                to: '/docs/career/cs-fields/blockchain-web3',
               },
               {
                 label: 'Cybersecurity',
                 to: '/docs/career/cs-fields/cybersecurity',
               },
               {
-                label: 'Resources',
+                label: 'Career Resources',
                 to: '/docs/career/resources',
               },
             ],
