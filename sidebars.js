@@ -186,7 +186,11 @@ const sidebars = {
       label: 'NTU HPC',
     },
     'clubs/aiml',
-    'clubs/innovation-lab',
+    {
+      type: 'doc',
+      id: 'clubs/innovation-lab',
+      label: 'iLab@NTU',
+    },
   ],
 };
 
